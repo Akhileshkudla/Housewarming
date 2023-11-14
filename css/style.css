@@ -710,6 +710,7 @@ Primary style
 	  display:none;
   }
   .cd-svg-container {
+	padding-top: 60px;
 	width: 90%;
 	max-width: 200px;
 	margin: 0 auto;
